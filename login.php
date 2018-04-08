@@ -24,7 +24,7 @@
     <div class="login-box">
       <div class="login-logo">
         <img src="images/logo-bpk-ri.png" width="10%">
-        <a href="index.php"><b>SISDIKLAT </b>BPK RI</a>
+        <a href="index.php"><b>Kompetensi Teknis </b>BPK RI</a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
         <p class="login-box-msg">Sign in to start your session</p>
